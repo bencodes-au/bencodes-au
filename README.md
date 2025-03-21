@@ -6,6 +6,8 @@
 💻 I'm currently studying Web Development at Coder Academy!
 
 🎯 I’ve just finished my first full stack web application. 
+
+
 🤘This is Touring Artist, a booking application for artists looking for venues. 
 
 
