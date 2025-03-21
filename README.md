@@ -21,10 +21,10 @@
 🔭 I'm currently looking for career and intern oppurtunites. 
 
 
-You can learn more about me at: 📑 [LinkedIn](https://linkedin.com/in/bencodes-au)
+You can learn more about me on 📑 [LinkedIn](https://linkedin.com/in/bencodes-au)
 
 
-or reach me directly via Email at: bencodes.au@gmail.com
+😍 If you like what you see, you can reach me directly via Email at: bencodes.au@gmail.com
 
 
 <!--
