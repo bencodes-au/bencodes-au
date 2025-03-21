@@ -16,17 +16,12 @@
 
 [Touring Artist Front End](https://github.com/bencodes-au/Touring-Artist-Front-End)
 
-:dart: My next goal is to build my portfolio website at bencodes.au
+:dart: My next goal is to build my portfolio website at bencodes.au (coming soon)
 
-🔭 I'm currently looking for career and intern oppurtunites. You can find me here: 
+🔭 I'm currently looking for career and intern oppurtunites. You can find me at: 
+📑 [LinkedIn](https://linkedin.com/in/bencodes-au)
+📧 [Email Me](bencodes.au@gmail.com)
 
-
- <a href="https://linkedin.com/in/bencodes-au" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a> 
-<a href="bencodes.au@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
-</a>
 
 <!--
 **bencodes-au/bencodes-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
