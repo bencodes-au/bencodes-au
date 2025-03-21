@@ -1,12 +1,7 @@
 # Ben Gorman
 ## A Rising :star: in Web Dev!
 
-👋 Hi, I'm Ben. <a href="https://linkedin.com/in/bencodes-au" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a> 
-<a href="bencodes.au@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
-</a>
+👋 Hi, I'm Ben.
 
 💻 I'm currently studying Web Development at Coder Academy!
 
@@ -23,7 +18,15 @@
 
 :dart: My next goal is to build my portfolio website at bencodes.au
 
-🔭 I'm currently looking for career and intern oppurtunites.
+🔭 I'm currently looking for career and intern oppurtunites. You can find me here: 
+
+
+ <a href="https://linkedin.com/in/bencodes-au" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a> 
+<a href="bencodes.au@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+</a>
 
 <!--
 **bencodes-au/bencodes-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
