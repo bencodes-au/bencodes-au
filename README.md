@@ -18,7 +18,7 @@
 
 🎯: My next goal is to build my portfolio website at bencodes.au (coming soon)
 
-🔭 I'm currently looking for career and intern oppurtunites. 
+🔭 I'm currently looking for career and intern oppurtunites in the Melbourne area. 
 
 
 🍗 Hungry for more? You can learn more about me on 📑 [LinkedIn](https://linkedin.com/in/bencodes-au)
