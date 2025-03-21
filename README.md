@@ -8,7 +8,7 @@
 🎯 I’ve just finished my first full stack web application. 
 
 
-🤘This is Touring Artist, a booking application for artists looking for venues. 
+🤘This is Touring Artist, a booking application for artists looking for venues built with a MERN stack. 
 
 
 [Touring Artist Back End](https://github.com/bencodes-au/Touring-Artist-Back-End)
