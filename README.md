@@ -5,7 +5,7 @@
 
 💻 I'm currently studying Web Development at Coder Academy!
 
-🎯 I’ve just finished my first full stack web application. 
+🌱 I’ve just finished my first full stack web application. 
 
 
 🤘This is Touring Artist, a booking application for artists looking for venues built with a MERN stack. 
@@ -16,15 +16,15 @@
 
 [Touring Artist Front End](https://github.com/bencodes-au/Touring-Artist-Front-End)
 
-:dart: My next goal is to build my portfolio website at bencodes.au (coming soon)
+🎯: My next goal is to build my portfolio website at bencodes.au (coming soon)
 
 🔭 I'm currently looking for career and intern oppurtunites. 
 
 
-You can learn more about me on 📑 [LinkedIn](https://linkedin.com/in/bencodes-au)
+🍗 Hungry for more? You can learn more about me on 📑 [LinkedIn](https://linkedin.com/in/bencodes-au)
 
 
-😍 If you like what you see, you can reach me directly via Email at: bencodes.au@gmail.com
+😍 If you like what you see, you can reach me directly at: bencodes.au@gmail.com
 
 
 <!--
