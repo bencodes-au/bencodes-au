@@ -3,8 +3,9 @@
 
 💻 I'm about to finish my Diploma of Web Development at Coder Academy!
 
-🤘I’ve just finished my first full stack web application. This is Touring Artist, a booking application for artists looking for venues built with a MERN stack. 
+🏆 I’ve just finished my first full stack web application.
 
+🤘 This is Touring Artist, a booking application for artists looking for venues built with a MERN stack. 
 
 [Touring Artist Back End](https://github.com/bencodes-au/Touring-Artist-Back-End)
 
@@ -15,9 +16,7 @@
 
 🔭 I'm currently looking for career and internship oppurtunites in the Melbourne area. 
 
-
 🍗 Hungry for more? You can learn more about me on 📑 [LinkedIn](https://linkedin.com/in/bencodes-au)
-
 
 😍 If you like what you see, you can reach me directly at: bencodes.au@gmail.com
 
