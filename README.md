@@ -1,7 +1,5 @@
-# Ben Gorman
-## A Rising :star: in Web Dev!
-
-👋 Hi, I'm Ben.
+# Ben Gorman :star:
+👋 Hi, I'm Ben
 
 💻 I'm about to finish my Diploma of Web Development at Coder Academy!
 
