@@ -8,11 +8,11 @@
 🤘 This is Touring Artist, a booking application for artists looking for venues built with a MERN stack. 
 
 [Touring Artist Back End](https://github.com/bencodes-au/Touring-Artist-Back-End)
-
-
 [Touring Artist Front End](https://github.com/bencodes-au/Touring-Artist-Front-End)
 
-🎯: My next goal is to build my portfolio website at bencodes.au (coming soon)
+🔥 You can also check out my new portfolio page at bencodes.au
+
+🎯 My next major goals are docker and typescript. 
 
 🔭 I'm currently looking for career and internship oppurtunites in the Melbourne area. 
 
