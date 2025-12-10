@@ -1,9 +1,9 @@
 # Ben Gorman :star:
 👋 Hi, I'm Ben
 
-💻 I'm about to finish my Diploma of Web Development at Coder Academy!
+💻 I've finished my Diploma of Web Development at Coder Academy!
 
-🏆 I’ve just finished my first full stack web application.
+🏆 I’ve just finished my first internship at LABRYS
 
 🤘 This is Touring Artist, a booking application for artists looking for venues built with a MERN stack. 
 
@@ -12,7 +12,7 @@
 
 🔥 You can also check out my new portfolio page at bencodes.au
 
-🎯 My next major goals are docker and typescript. 
+🎯 My next major goal is to learn Typescript 
 
 🔭 I'm currently looking for career and internship oppurtunites in the Melbourne area. 
 
